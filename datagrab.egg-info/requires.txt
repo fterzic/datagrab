@@ -1,0 +1,1 @@
+collect-py@ git+ssh://git@github.com/collect-capital/collect-py.git@main

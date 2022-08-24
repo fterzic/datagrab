@@ -1,0 +1,7 @@
+setup.py
+datagrab.egg-info/PKG-INFO
+datagrab.egg-info/SOURCES.txt
+datagrab.egg-info/dependency_links.txt
+datagrab.egg-info/requires.txt
+datagrab.egg-info/top_level.txt
+pickle_listing_store/__init__.py
